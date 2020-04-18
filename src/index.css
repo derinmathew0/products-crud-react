@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.product-search{ 
+  margin-bottom: 2%;
+  width: 24%;
+  padding:10px;
+ }
